@@ -14,17 +14,15 @@ break;
 
 case 2:
 
-case 3:
-
 System.out.println("Well done");
 
 break;
 
-case 4:
+case 3:
 
 System.out.println("You passed");
 
-case 5:
+case 4:
 
 System.out.println("Better try again");
 
