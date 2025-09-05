@@ -1,5 +1,5 @@
 
-public class SeatworkEight {
+public class Main {
     public static void main(String args[]) {
         int grade = 3;
 
