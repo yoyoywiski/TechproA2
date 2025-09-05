@@ -1,19 +1,19 @@
 
 public class Main {
     public static void main(String args[]) {
-        int grade = 3;
+        char grade ='C'
 
         switch (grade) {
-            case 1:
+            case A:
                 System.out.println("Excellent!");
                 break;
-            case 2:
+            case B:
                 System.out.println("Well done");
                 break;
-            case 3:
+            case C:
                 System.out.println("You passed");
                 break;
-            case 4:
+            case D:
                 System.out.println("Better try again");
                 break;
             default:
