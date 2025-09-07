@@ -1,15 +1,8 @@
 public class Main {
 
-4
-
-public static void main(String[] args) {
-
-System.out.println("Seatworknosix");
-
-String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
-
-System.out.printlnfars.length);
-
-}
-
+    public static void main(String[] args) {
+        System.out.println("Seatworknosix");
+        String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+        System.out.println(cars.length);
+    }
 }
