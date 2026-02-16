@@ -23,4 +23,3 @@ public class Main {
         System.out.println("Your grade is " + grade);
     }
 }
-
